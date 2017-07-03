@@ -1,1 +1,13 @@
 de:
+  layouts:
+    header:
+      toggle_navigation_text: "Umschalten Sie Menü"
+      upload: "Upload"
+      status_updates: "Feed"
+      feed: "Feed"
+      artworks: "Artworks"
+      series: "Comic series"
+      novels: "Novels"
+      ramen: "Ramen"
+      log_in: "Log in"
+      search_btn: "Search"
